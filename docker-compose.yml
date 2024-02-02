@@ -1,0 +1,8 @@
+version: "3"
+services:
+  backend:
+    build:
+      context: .
+      dockerfile: ./server.Dockerfile
+    ports:
+      - 8030:8080
