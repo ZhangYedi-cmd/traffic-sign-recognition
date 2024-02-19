@@ -42,7 +42,7 @@ tqdm==4.66.1
 typing_extensions==4.9.0
 tzdata==2023.3
 ultralytics==8.0.229
-urllib3==2.1.0
+urllib3==2.2.1
 opencv-python-headless==4.8.1.78
 gunicorn==21.2.0
 gevent==23.9.1
